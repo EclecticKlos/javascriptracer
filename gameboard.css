@@ -1,0 +1,14 @@
+.racer_table td {
+  background-color: white;
+  height: 20px;
+  width: 20px;
+}
+
+/*#player1_strip td:nth-child(1) {
+    background-color: red;
+}*/
+/*
+#player2_strip td:nth-child(1) {
+    background-color: green;
+}
+*/
